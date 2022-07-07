@@ -1,0 +1,11 @@
+Array achallenges questions are from apna college video no. 23
+
+
+Number of subarrays of an array with n ekements = nC2 + n = n*(n+1)/2
+
+Number of subsequences of an array with n elements = 2^n
+
+Arithmetic array: [9, 10]  [3, 3, 3]   [9,7,5,3]
+Those array which have atleast 2 integers and difference b/w consecutive integers are equal
+
+Permutations of an array = n!
